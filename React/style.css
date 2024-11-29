@@ -1,0 +1,78 @@
+body{
+    background-color: palegoldenrod;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.img-div{
+   
+    text-align: center;
+    
+    margin-bottom: px;
+
+}
+.weather-pic{
+    border-radius: 10px;
+
+}
+.techpye{
+    color:rgba(0, 128, 0, 0.61);
+}
+.weather-decoration{
+    color:rgba(0, 128, 0, 0.61);
+
+}
+.app-decoration{
+    color:rgba(148, 86, 36, 0.76);
+    font-weight: bold; 
+}
+.container{
+display: flex;
+justify-content: center;
+}
+.Get-weatherDiv{
+margin: 5px;
+}
+.city-nameDiv{
+  margin: 5px;  
+}
+button{
+border-radius: 6px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+background-color: rgba(148, 86, 36, 0.76);
+color: white;
+
+}
+input{
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;   
+}
+.output-div{
+    text-align: center;
+     color:rgba(0, 128, 0, 0.61);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.regards{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(148, 86, 36, 0.562);
+    font-style: italic; 
+}
+.green-text{
+    color: rgba(0, 128, 0, 0.568);
+    text-decoration: underline;
+}
